@@ -2,12 +2,11 @@ Name of QuantLet:   SwissRollLLE
 
 Published in:       ''
 
-Description:        'Plotting the Swiss roll and reduction using PCA and LLE'
+Description:        'Plotting the Swiss roll and reduction using LLE'
 
 Keywords:           
  - plot
  - LLE
- - PCA
  - Swiss roll
  - visualization
  - dimensionality reduction
