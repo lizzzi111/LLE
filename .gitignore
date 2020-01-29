@@ -1,6 +1,7 @@
-./QuantletLLE/.DS_Store
-./SwissRollLLE/.DS_Store
+./LLE_Quantlet/.DS_Store
+./LLE_SwissRoll/.DS_Store
 .DS_Store
-./QuantletLLE/.ipynb_checkpoints
-./SwissRollLLE/.ipynb_checkpoints
+./LLE_Quantlet/.ipynb_checkpoints
+./LLE_SwissRoll/.ipynb_checkpoints
 .ipynb_checkpoints
+./LLE_AOBDL/data/*
