@@ -2,6 +2,6 @@
 # Locally Linear Embeddings
 
 - Codes separated into quantlets: 
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Swiss Roll Example](SwissRollLLE)**
-## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[LLE on Quantlets](QuantletLLE)**
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[Swiss Roll Example](LLE_SwissRoll)**
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[LLE on Quantlets](LLE_Quantlet)**
 
