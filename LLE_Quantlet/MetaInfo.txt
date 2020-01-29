@@ -1,4 +1,4 @@
-Name of QuantLet:   QuantletLLE
+Name of QuantLet:   LLE_Quantlet
 
 Published in:       ''
 
