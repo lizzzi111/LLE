@@ -1,0 +1,18 @@
+Name of QuantLet:   LLE_AOBDL
+
+Published in:       ''
+
+Description:        'Plotting the Antisocial Online Behavior using LLE'
+
+Keywords:
+ - plot
+ - LLE
+ - cyberbullying
+ - visualization
+ - dimensionality reduction
+
+Author:             Elizaveta Zinovyeva
+
+Submitted:          Mon, February 10 2020 by Elizaveta Zinovyeva
+
+Output:             'LLE_reduce_AOBDL.png'
