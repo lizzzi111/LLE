@@ -1,0 +1,18 @@
+Name of QuantLet:   LLE_SwissRoll
+
+Published in:       ''
+
+Description:        'Plotting the Swiss roll and reduction using LLE'
+
+Keywords:           
+ - plot
+ - LLE
+ - Swiss roll
+ - visualization
+ - dimensionality reduction
+
+Author:             Elizaveta Zinovyeva
+
+Submitted:          Tue, January 28 2020 by Elizaveta Zinovyeva
+
+Output:             'original_data.png, pca_reduce.png, LLE_reduce.png'
