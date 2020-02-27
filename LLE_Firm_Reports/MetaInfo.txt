@@ -1,0 +1,18 @@
+Name of QuantLet:   LLE_Firm_Reports
+
+Published in:       ''
+
+Description:        'Plotting the 2 company reports using LLE'
+
+Keywords:
+ - plot
+ - LLE
+ - firm report
+ - visualization
+ - dimensionality reduction
+
+Author:             Elizaveta Zinovyeva
+
+Submitted:          Mon, February 10 2020 by Elizaveta Zinovyeva
+
+Output:             'LLE_reduce_AOBDL.png'
